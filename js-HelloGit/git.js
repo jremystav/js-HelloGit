@@ -1,5 +1,0 @@
-﻿//thing
-
-function main() {
-    
-}
