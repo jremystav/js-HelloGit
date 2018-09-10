@@ -1,0 +1,5 @@
+﻿//thing
+
+function main() {
+    
+}
